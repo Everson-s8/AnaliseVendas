@@ -10,4 +10,4 @@ para a conexão do python com o arquivo excel
 para a automação de envio via whatsapp
 
 
-<img src = "[https://imgur.com/kS0DakU](https://i.imgur.com/kS0DakU.png)https://i.imgur.com/kS0DakU.png"/>
+<img src = "https://imgur.com/kS0DakU](https://i.imgur.com/kS0DakU.png)https://i.imgur.com/kS0DakU.png"/>
