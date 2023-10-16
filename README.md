@@ -29,4 +29,6 @@ My Twilio phone number
 Após isso estabelecer conexão entre twilio e usuario via whatsapp ou sms etc
 
 Caso for via whatsapp:
+
+
 <img src = "https://i.imgur.com/kS0DakU.png"/>
