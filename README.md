@@ -4,7 +4,7 @@ Faz uma analise de vendas e envia o resultado via whatsapp
 Aplicação de Python para analise de documentos excel, para descobrir vendedores que conseguiram atingir venda acima de 55 mil, e enviar notificação da conquista para um whatsapp, para atribuir um bonus
 A partir das bibliotecas 
 #pandas 
-# openpyxl 
+#openpyxl 
 para a conexão do python com o arquivo excel
 #twilio
 para a automação de envio via whatsapp
